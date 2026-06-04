@@ -2,7 +2,7 @@
   "name": "Franck IA",
   "short_name": "Franck",
   "description": "Aplicação PWA criada por Franck.",
-  "start_url": "./",
+  "start_url": "/GRADES002/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#8844ee",
